@@ -14,7 +14,7 @@ import static net.iems.service.constant.CommandType.PUT;
 
 /**
  * 通过 RocksDB 实现状态机
- * Created by 大东 on 2023/2/24.
+ *
  */
 @Slf4j
 public class StateMachine {
