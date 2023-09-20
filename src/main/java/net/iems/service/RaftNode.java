@@ -27,7 +27,7 @@ import static net.iems.service.constant.NodeStatus.FOLLOWER;
 import static net.iems.service.constant.NodeStatus.CANDIDATE;
 
 /**
- * Created by 大东 on 2023/2/24.
+ * 
  */
 @Slf4j
 public class RaftNode {
