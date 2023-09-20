@@ -7,7 +7,7 @@ import java.io.Serializable;
 
 /**
  * RPC调用请求体
- * Created by 大东 on 2023/2/24.
+ * 
  */
 @Builder
 @Data
